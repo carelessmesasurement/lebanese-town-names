@@ -1,0 +1,87 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Beirut
+    probability: 1
+  - name: Sayda
+    probability: 1
+  - name: Tyre
+    probability: 1
+  - name: Zahle
+    probability: 1
+  - name: Jounieh
+    probability: 1
+  - name: Baalbek
+    probability: 1
+  - name: Byblos
+    probability: 1
+  - name: Batroun
+    probability: 1
+  - name: Choueifat
+    probability: 1
+  - name: Jezzine
+    probability: 1
+  - name: Nabatieh
+    probability: 1
+  - name: Fanar
+    probability: 1
+  - name: Ain Ebel
+    probability: 1
+  - name: Ain Najm
+    probability: 1
+  - name: Ain Saade
+    probability: 1
+  - name: Baabdat
+    probability: 1
+  - name: Roumieh
+    probability: 1
+  - name: Achrafieh
+    probability: 1
+  - name: Marjayon
+    probability: 1
+  - name: Rachaya
+    probability: 1
+  - name: Aley
+    probability: 1
+  - name: Bcharre
+    probability: 1
+  - name: Hermel
+    probability: 1
+  - name: Ehden
+    probability: 1
+  - name: Broummana
+    probability: 1
+  - name: Akkar
+    probability: 1
+  - name: Damour
+    probability: 1
+  - name: Bikfaya
+    probability: 1
+  - name: Beit Meri
+    probability: 1
+  - name: Ras Baalbek
+    probability: 1
+  - name: Baalbek
+    probability: 1
+  - name: Qaa
+    probability: 1
+  - name: Faraya
+    probability: 1
+  - name: Jbeil
+    probability: 1
+  - name: Chekka
+    probability: 1
+  - name: Baskinta
+    probability: 1
+  - name: Bint Jbeil
+    probability: 1
+  - name: Sour
+    probability: 1
+  - name: Barouk
+    probability: 1
+  - name: Hammena
+    probability: 1
+name: 'New Townname #0'
+source: ''
+subsets: []
